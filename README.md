@@ -1,6 +1,6 @@
-# Walid Zouguagh
+# 👋 Hello World! I'm Walid Zouguagh
 
-👋 Hi there! I'm **Walid Zouguagh**, a passionate developer currently focused on **Java** and **Spring Boot** for building robust backend and full-stack applications.
+I'm Walid Zouguagh, a passionate Full-Stack Web Developer and Zone01 Oujda graduate, focused on Java and Spring Boot for building clean, scalable, and reliable applications.
 
 ### About Me
 - 🔧 Focused on **Java Spring Boot** for creating efficient, scalable, and maintainable applications
