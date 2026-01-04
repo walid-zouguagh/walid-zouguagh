@@ -1,6 +1,6 @@
-# Walid Zouguagh
+# 👋 Hello World! I'm Walid Zouguagh
 
-👋 Hi there! I'm **Walid Zouguagh**, a passionate developer currently learning and building projects in **Go** (Golang) and web technologies.
+Full-Stack Web Developer | Zone01 Oujda Graduate | Passionate about Clean Code & Scalable Apps
 
 ### About Me
 - 🔧 Focused on **Go** for building efficient, clean, and concurrent applications
