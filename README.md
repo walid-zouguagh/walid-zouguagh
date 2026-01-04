@@ -1,9 +1,9 @@
-# 👋 Hello World! I'm Walid Zouguagh
+# Walid Zouguagh
 
-**Full-Stack Web Developer | Zone01 Oujda Graduate | Passionate about Clean Code & Scalable Apps
+👋 Hi there! I'm **Walid Zouguagh**, a passionate developer currently focused on **Java** and **Spring Boot** for building robust backend and full-stack applications.
 
 ### About Me
-- 🔧 Focused on **Go** for building efficient, clean, and concurrent applications
+- 🔧 Focused on **Java Spring Boot** for creating efficient, scalable, and maintainable applications
 - 🌐 Exploring full-stack and web development with JavaScript, HTML, and CSS
 - 🎓 These repositories are part of my learning journey at 01 Edu / school projects
 - 🚀 Open source enthusiast – all projects are here to learn, improve, and share
@@ -42,14 +42,16 @@ A collection of progressively advanced ASCII art generators:
 (Explore all repositories here: [github.com/walid-zouguagh?tab=repositories](https://github.com/walid-zouguagh?tab=repositories))
 
 ### Tech Stack
-- 🐹 **Go** (main language – simplicity and performance!)
+- ☕ **Java** (with Spring Boot – my current focus!)
+- 🐹 Go (previous projects and concurrency love)
 - ⚡ JavaScript (web interactivity and DOM projects)
 - 🌍 HTML & CSS (front-end foundations)
-- Others: Rust, Java (early experiments)
+- Others: Rust (early experiments)
 
 ### Get in Touch
-<!-- - 📧 Email: (t) -->
+<!-- - 📧 Email: (add your email if you want) -->
 - 💼 LinkedIn: (https://www.linkedin.com/in/walid-zouguagh/)
+<!-- - 🐦 X/Twitter: (add your handle) -->
 
 ⭐ Feel free to star any repo you like!  
 🛠️ Found a bug or have an idea? Open an issue or submit a PR – contributions and feedback are always welcome!
@@ -59,6 +61,7 @@ Thanks for visiting! More projects coming as I continue learning. 🚀
 ---
 
 *Profile in progress – just like my coding skills!*
+
 <!--
 **walid-zouguagh/walid-zouguagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -73,4 +76,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
